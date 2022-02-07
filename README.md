@@ -54,14 +54,25 @@
 <img src="https://img.shields.io/badge/-Git-black?&style=for-the-badge&logo=git" height="25"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3" height="25"/>
-</p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=govind527&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=govind527&theme=tokyonight" />
-</p>
+
+
+## 📈 Stats
 
 <p align="center">
-   <img src="https://github.com/govind527/govind527/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=govind527&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=govind527&hide_border=true&theme=radical" />
 </p>
+
+![Govind's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=govind527&hide_border=true&theme=redical)
+
+
+
+## ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [The Stack Overflow 2017 survey](https://medium.com/@govindkumarnavik97/the-stack-overflow-2017-survey-54a9745504fc)
+
+<!-- BLOG-POST-LIST:END -->
+
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1361](https://github.com/danthareja/contribute-to-open-source/issues/1361) in [danthareja/contribute-to-open-source](https://github.com/danthareja/contribute-to-open-source)
@@ -70,13 +81,38 @@
 4. 💪 Opened PR [#46231](https://github.com/firstcontributions/first-contributions/pull/46231) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 5. 🎉 Merged PR [#29](https://github.com/govind527/csstox/pull/29) in [govind527/csstox](https://github.com/govind527/csstox)
 <!--END_SECTION:activity-->
-    
+
+## 📕 Pinned Repositories
+
+
+
+<a href="https://github.com/govind527/Business-Startup-Success-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=govind527&repo=Business-Startup-Success-Prediction&theme=radical" />
+</a>
+
+<a href="https://github.com/govind527/developing-with-docker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=govind527&repo=developing-with-docker&theme=radical" />
+</a>
+
+<a href="https://github.com/govind527/Loan-Amount-Sanction-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=govind527&repo=Loan-Amount-Sanction-&theme=radical" />
+</a>
+
+<a href="https://github.com/govind527/Data-Scientist-Blogpost-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=govind527&repo=Data-Scientist-Blogpost-Project&theme=radical" />
+</a>
+
+---
+<p align="center">
+<img src="https://github.com/govind527/govind527/blob/output/github-contribution-grid-snake.svg" alt="snake">
+ </p>
+<!--   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=govind527&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=govind527&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=govind527&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=govind527&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=govind527&theme=default)
-
+-->
 📫Connect with me:
 
 
