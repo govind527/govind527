@@ -1,5 +1,8 @@
-### Hi there friends👋
+<h2 align="center">Hi, I'm Govind Kumar  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif
+" height="30" width="30"></h2>
 
+
+![image](https://github.com/govind527/govind527/blob/0d44eb8fa93ca273ae3ee2d9031539a56c9e23c9/STARTING%20SOON.gif)
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1361](https://github.com/danthareja/contribute-to-open-source/issues/1361) in [danthareja/contribute-to-open-source](https://github.com/danthareja/contribute-to-open-source)
