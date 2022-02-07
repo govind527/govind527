@@ -98,11 +98,11 @@ Find out more about me & feel free to connect with me here:
 
 ## My Recent Github Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1361](https://github.com/danthareja/contribute-to-open-source/issues/1361) in [danthareja/contribute-to-open-source](https://github.com/danthareja/contribute-to-open-source)
-2. 💪 Opened PR [#1361](https://github.com/danthareja/contribute-to-open-source/pull/1361) in [danthareja/contribute-to-open-source](https://github.com/danthareja/contribute-to-open-source)
-3. 🗣 Commented on [#46231](https://github.com/firstcontributions/first-contributions/issues/46231) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-4. 💪 Opened PR [#46231](https://github.com/firstcontributions/first-contributions/pull/46231) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-5. 🎉 Merged PR [#29](https://github.com/govind527/csstox/pull/29) in [govind527/csstox](https://github.com/govind527/csstox)
+1. ❗️ Opened issue [#3488](https://github.com/EddieHubCommunity/support/issues/3488) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#1361](https://github.com/danthareja/contribute-to-open-source/issues/1361) in [danthareja/contribute-to-open-source](https://github.com/danthareja/contribute-to-open-source)
+3. 💪 Opened PR [#1361](https://github.com/danthareja/contribute-to-open-source/pull/1361) in [danthareja/contribute-to-open-source](https://github.com/danthareja/contribute-to-open-source)
+4. 🗣 Commented on [#46231](https://github.com/firstcontributions/first-contributions/issues/46231) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+5. 💪 Opened PR [#46231](https://github.com/firstcontributions/first-contributions/pull/46231) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 <!--END_SECTION:activity-->
 
 ## 📕 Pinned Repositories
