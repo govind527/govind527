@@ -5,8 +5,8 @@
 
 <h2 align="center"><img src="https://github.com/govind527/govind527/blob/0d44eb8fa93ca273ae3ee2d9031539a56c9e23c9/STARTING%20SOON.gif" height="300" width="1500"></h2>
 
-I am Asmit Malakannawar, currently pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). I am a Tech enthusiast, designer & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff.
-
+<!-- I am Asmit Malakannawar, currently pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). I am a Tech enthusiast, designer & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff.
+-->
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
