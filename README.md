@@ -108,7 +108,6 @@ Find out more about me & feel free to connect with me here:
 ## 📕 Pinned Repositories
 
 
-
 <a href="https://github.com/govind527/Business-Startup-Success-Prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=govind527&repo=Business-Startup-Success-Prediction&theme=radical" />
 </a>
@@ -125,7 +124,7 @@ Find out more about me & feel free to connect with me here:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=govind527&repo=Data-Scientist-Blogpost-Project&theme=radical" />
 </a>
 
----
+
 <p align="center">
 <img src="https://github.com/govind527/govind527/blob/output/github-contribution-grid-snake.svg" alt="snake">
  </p>
