@@ -6,7 +6,7 @@
 <h2 align="center"><img src="https://github.com/govind527/govind527/blob/0d44eb8fa93ca273ae3ee2d9031539a56c9e23c9/STARTING%20SOON.gif" height="230" width="1500"></h2>
 
 ## About Me 😄
-I am Govind Kumar, completed my Master's in Mathematics & Scientific Computing from [National Institute of Technology Warangal](https://www.nitw.ac.in/). I am a Tech enthusiast, Explorer & an open-source Contributer. I am always open to collaborating on projects and innovative/disruptive ideas. 
+I am Govind Kumar, completed my Master's in Mathematics & Scientific Computing from [National Institute of Technology Warangal](https://www.nitw.ac.in/). I am a Tech enthusiast, Explorer, and open-source Contributor. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 Otherwise, I love playing Badminton, Exploring New places and Sometimes Eating.
 
