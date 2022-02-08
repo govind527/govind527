@@ -6,13 +6,13 @@
 <h2 align="center"><img src="https://github.com/govind527/govind527/blob/0d44eb8fa93ca273ae3ee2d9031539a56c9e23c9/STARTING%20SOON.gif" height="230" width="1500"></h2>
 
 ## About Me 😄
-I am Govind Kumar, completed  my Master's in Mathematics & Scientific Computing from [National Institute of Technology Warangal](https://www.nitw.ac.in/). I am a Tech enthusiast, Explorer & an open-source Contributer. I am always open to collaborating on projects and innovative/disruptive ideas. 
+I am Govind Kumar, completed my Master's in Mathematics & Scientific Computing from [National Institute of Technology Warangal](https://www.nitw.ac.in/). I am a Tech enthusiast, Explorer & an open-source Contributer. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 Otherwise, I love playing Badminton, Exploring New places and Sometimes Eating.
 
 👯I’m looking to collaborate on Open-Source Projects
 
-🌱 I’m currently learning Data Strucure and Algorithms, Data Science/Machine Learning, Cloud Native Technologies from Google, Blockchain,...
+🌱 I’m currently learning Data Structure and Algorithms, Data Science/Machine Learning, Cloud Native Technologies from Google, Blockchain,...
 
 🤔 **I’m Open to Work on Domain like Software Development, DevOps, and Data Science/ML**
 
@@ -40,7 +40,7 @@ Find out more about me & feel free to connect with me here:
 ---
 ## ⚡ Tech Stack
 
-### 🚀 Languages
+### 🚀 Languages/Database/Scripting
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
