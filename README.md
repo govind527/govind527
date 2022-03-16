@@ -15,8 +15,9 @@ I am Govind Kumar, completed  Master's in Mathematics & Scientific Computing fro
 🌱 I’m currently learning Data Structure and Algorithms, Data Science/Machine Learning, Cloud Native Technologies from Google, Blockchain,...
 
 🤔 **I’m Open to Work on Domain like Software Development, DevOps, and Data Science/ML**
-![Resume](https://app.flowcv.io/resume-feedback/lwsSgpn3kI-ZeqS7B9k6U)
-![Leetcode](https://leetcode.com/govind97/)
+
+[Resume](https://app.flowcv.io/resume-feedback/lwsSgpn3kI-ZeqS7B9k6U)
+[Leetcode](https://leetcode.com/govind97/)
 
 
 Find out more about me & feel free to connect with me here:
