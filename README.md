@@ -111,20 +111,28 @@ Find out more about me & feel free to connect with me here:
 ## 📕 Pinned Repositories
 
 
-<a href="https://github.com/govind527/Business-Startup-Success-Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=govind527&repo=Business-Startup-Success-Prediction&theme=radical" />
+<a href="https://github.com/govind527/Upscale-Image">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=govind527&repo=Upscale-Image&theme=radical" />
 </a>
 
-<a href="https://github.com/govind527/developing-with-docker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=govind527&repo=developing-with-docker&theme=radical" />
+<a href="https://github.com/govind527/Toxicity-classification-NLP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=govind527&repo=Toxicity-classification-NLP&theme=radical" />
 </a>
 
-<a href="https://github.com/govind527/Loan-Amount-Sanction-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=govind527&repo=Loan-Amount-Sanction-&theme=radical" />
+<a href="https://github.com/govind527/Analytics-Vidhya-Jobathon-May-2021-Credit-Card-Lead-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=govind527&repo=Analytics-Vidhya-Jobathon-May-2021-Credit-Card-Lead-Prediction&theme=radical" />
+</a>
+
+<a href="https://github.com/govind527/whatsapp-chat-analyzer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=govind527&repo=whatsapp-chat-analyzer&theme=radical" />
 </a>
 
 <a href="https://github.com/govind527/Data-Scientist-Blogpost-Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=govind527&repo=Data-Scientist-Blogpost-Project&theme=radical" />
+</a>
+
+<a href="https://github.com/govind527/Business-Startup-Success-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=govind527&repo=Business-Startup-Success-Prediction&theme=radical" />
 </a>
 
 ---
