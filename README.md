@@ -104,9 +104,9 @@ Find out more about me & feel free to connect with me here:
 
 ## My Recent Github Activity ⚡
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/govind527/github-slideshow/issues/1) in [govind527/github-slideshow](https://github.com/govind527/github-slideshow)
-2. ❗️ Opened issue [#1009](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1009) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. ❗️ Opened issue [#3488](https://github.com/EddieHubCommunity/support/issues/3488) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🎉 Merged PR [#3](https://github.com/govind527/github-slideshow/pull/3) in [govind527/github-slideshow](https://github.com/govind527/github-slideshow)
+2. 💪 Opened PR [#3](https://github.com/govind527/github-slideshow/pull/3) in [govind527/github-slideshow](https://github.com/govind527/github-slideshow)
+3. ❗️ Closed issue [#1](https://github.com/govind527/github-slideshow/issues/1) in [govind527/github-slideshow](https://github.com/govind527/github-slideshow)
 4. 🗣 Commented on [#1361](https://github.com/danthareja/contribute-to-open-source/issues/1361) in [danthareja/contribute-to-open-source](https://github.com/danthareja/contribute-to-open-source)
 5. 💪 Opened PR [#1361](https://github.com/danthareja/contribute-to-open-source/pull/1361) in [danthareja/contribute-to-open-source](https://github.com/danthareja/contribute-to-open-source)
 <!--END_SECTION:activity-->
