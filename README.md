@@ -104,11 +104,11 @@ Find out more about me & feel free to connect with me here:
 
 ## My Recent Github Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/govind527/github-slideshow/pull/3) in [govind527/github-slideshow](https://github.com/govind527/github-slideshow)
-2. 💪 Opened PR [#3](https://github.com/govind527/github-slideshow/pull/3) in [govind527/github-slideshow](https://github.com/govind527/github-slideshow)
-3. ❗️ Closed issue [#1](https://github.com/govind527/github-slideshow/issues/1) in [govind527/github-slideshow](https://github.com/govind527/github-slideshow)
-4. 🗣 Commented on [#1361](https://github.com/danthareja/contribute-to-open-source/issues/1361) in [danthareja/contribute-to-open-source](https://github.com/danthareja/contribute-to-open-source)
-5. 💪 Opened PR [#1361](https://github.com/danthareja/contribute-to-open-source/pull/1361) in [danthareja/contribute-to-open-source](https://github.com/danthareja/contribute-to-open-source)
+1. 🎉 Merged PR [#4](https://github.com/govind527/reviewing-a-pull-request/pull/4) in [govind527/reviewing-a-pull-request](https://github.com/govind527/reviewing-a-pull-request)
+2. 💪 Opened PR [#4](https://github.com/govind527/reviewing-a-pull-request/pull/4) in [govind527/reviewing-a-pull-request](https://github.com/govind527/reviewing-a-pull-request)
+3. 🎉 Merged PR [#3](https://github.com/govind527/github-slideshow/pull/3) in [govind527/github-slideshow](https://github.com/govind527/github-slideshow)
+4. 💪 Opened PR [#3](https://github.com/govind527/github-slideshow/pull/3) in [govind527/github-slideshow](https://github.com/govind527/github-slideshow)
+5. ❗️ Closed issue [#1](https://github.com/govind527/github-slideshow/issues/1) in [govind527/github-slideshow](https://github.com/govind527/github-slideshow)
 <!--END_SECTION:activity-->
 
 ## 📕 Pinned Repositories
