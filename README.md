@@ -104,11 +104,11 @@ Find out more about me & feel free to connect with me here:
 
 ## My Recent Github Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/govind527/reviewing-a-pull-request/pull/4) in [govind527/reviewing-a-pull-request](https://github.com/govind527/reviewing-a-pull-request)
-2. 💪 Opened PR [#4](https://github.com/govind527/reviewing-a-pull-request/pull/4) in [govind527/reviewing-a-pull-request](https://github.com/govind527/reviewing-a-pull-request)
-3. 🎉 Merged PR [#3](https://github.com/govind527/github-slideshow/pull/3) in [govind527/github-slideshow](https://github.com/govind527/github-slideshow)
-4. 💪 Opened PR [#3](https://github.com/govind527/github-slideshow/pull/3) in [govind527/github-slideshow](https://github.com/govind527/github-slideshow)
-5. ❗️ Closed issue [#1](https://github.com/govind527/github-slideshow/issues/1) in [govind527/github-slideshow](https://github.com/govind527/github-slideshow)
+1. 🗣 Commented on [#1](https://github.com/govind527/markdown-portfolio/issues/1) in [govind527/markdown-portfolio](https://github.com/govind527/markdown-portfolio)
+2. 🎉 Merged PR [#4](https://github.com/govind527/reviewing-a-pull-request/pull/4) in [govind527/reviewing-a-pull-request](https://github.com/govind527/reviewing-a-pull-request)
+3. 💪 Opened PR [#4](https://github.com/govind527/reviewing-a-pull-request/pull/4) in [govind527/reviewing-a-pull-request](https://github.com/govind527/reviewing-a-pull-request)
+4. 🎉 Merged PR [#3](https://github.com/govind527/github-slideshow/pull/3) in [govind527/github-slideshow](https://github.com/govind527/github-slideshow)
+5. 💪 Opened PR [#3](https://github.com/govind527/github-slideshow/pull/3) in [govind527/github-slideshow](https://github.com/govind527/github-slideshow)
 <!--END_SECTION:activity-->
 
 ## 📕 Pinned Repositories
