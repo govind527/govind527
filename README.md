@@ -104,11 +104,11 @@ Find out more about me & feel free to connect with me here:
 
 ## My Recent Github Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/govind527/markdown-portfolio/issues/4) in [govind527/markdown-portfolio](https://github.com/govind527/markdown-portfolio)
-2. 🎉 Merged PR [#4](https://github.com/govind527/markdown-portfolio/pull/4) in [govind527/markdown-portfolio](https://github.com/govind527/markdown-portfolio)
-3. 🎉 Merged PR [#3](https://github.com/govind527/markdown-portfolio/pull/3) in [govind527/markdown-portfolio](https://github.com/govind527/markdown-portfolio)
-4. 🎉 Merged PR [#2](https://github.com/govind527/markdown-portfolio/pull/2) in [govind527/markdown-portfolio](https://github.com/govind527/markdown-portfolio)
-5. 🗣 Commented on [#1](https://github.com/govind527/markdown-portfolio/issues/1) in [govind527/markdown-portfolio](https://github.com/govind527/markdown-portfolio)
+1. ❗️ Reopened issue [#3](https://github.com/govind527/github-upload/issues/3) in [govind527/github-upload](https://github.com/govind527/github-upload)
+2. ❗️ Closed issue [#3](https://github.com/govind527/github-upload/issues/3) in [govind527/github-upload](https://github.com/govind527/github-upload)
+3. 🗣 Commented on [#3](https://github.com/govind527/github-upload/issues/3) in [govind527/github-upload](https://github.com/govind527/github-upload)
+4. ❗️ Closed issue [#2](https://github.com/govind527/github-upload/issues/2) in [govind527/github-upload](https://github.com/govind527/github-upload)
+5. 🗣 Commented on [#2](https://github.com/govind527/github-upload/issues/2) in [govind527/github-upload](https://github.com/govind527/github-upload)
 <!--END_SECTION:activity-->
 
 ## 📕 Pinned Repositories
