@@ -85,10 +85,10 @@ Find out more about me & feel free to connect with me here:
 ## 📈 Stats
  
  
-[![JoJoDevAdventure's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=govind527&theme=github)](https://github.com/govind527/github-readme-activity-graph)
+[![Govind's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=govind527&theme=github)](https://github.com/govind527/github-readme-activity-graph)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=govind527&show_icons=true&hide_border=true&theme=radical" />
+<!--  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=govind527&show_icons=true&hide_border=true&theme=radical" />-->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=govind527&hide_border=true&theme=radical" />
 </p>
 
