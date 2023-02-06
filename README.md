@@ -8,7 +8,7 @@
 ## About Me 😄😃
 I am Govind Kumar, completed  Master's in Mathematics & Scientific Computing from [National Institute of Technology Warangal](https://www.nitw.ac.in/). I am a Tech enthusiast, Explorer, and open-source Contributor. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
-💬I love Playing Badminton, Exploring New places and Sometimes Eating.
+💬I love Playing Badminton, Exploring New places.
 
 👯I’m looking to collaborate on Open-Source Projects
 
