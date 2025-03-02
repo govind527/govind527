@@ -85,13 +85,29 @@ Find out more about me & feel free to connect with me here:
 ## 📈 Stats
  
  
-[![Govind's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=govind527&theme=github)](https://github.com/govind527/github-readme-activity-graph)
+<!-- [![Govind's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=govind527&theme=github)](https://github.com/govind527/github-readme-activity-graph) 
 
 <p align="center">
-<!--  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=govind527&show_icons=true&hide_border=true&theme=radical" />-->
+<!--  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=govind527&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=govind527&hide_border=true&theme=radical" />
 </p>
+-->
+<details open>
+<summary>GitHub Contribution Chart</summary>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=govind527&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
+</p>
+</details>
 
+<details open>
+<summary>GitHub Stats</summary>
+<p align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=govind527&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="Govind's GitHub stats" />
+</p>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=govind527&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="Govind's streak"/>
+</p>
 
 
 
@@ -148,10 +164,10 @@ Find out more about me & feel free to connect with me here:
 </a>
 
 ---
-<p align="center">
-<img src="https://github.com/govind527/govind527/blob/output/github-contribution-grid-snake.svg" alt="snake">
+<!--<p align="center">
+<img src="https://raw.githubusercontent.com/govind527/govind527/blob/output/github-contribution-grid-snake.svg" alt="snake">
  </p>
- 
+ -->
  ---
  ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
