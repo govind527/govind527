@@ -94,6 +94,28 @@ Find out more about me & feel free to connect with me here:
 
 
 
+<details open>
+<summary>GitHub Contribution Chart</summary>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsKayWat&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
+</p>
+</details>
+
+<details open>
+<summary>GitHub Stats</summary>
+<p align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itsKayWat&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="itsKayWat's GitHub stats" />
+</p>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=itsKayWat&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="itsKayWat's streak"/>
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=itsKayWat&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="itsKayWat's trophies"/>
+</p>
+</details>
+
 
 
 <!-- <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
@@ -151,6 +173,11 @@ Find out more about me & feel free to connect with me here:
 <p align="center">
 <img src="https://github.com/govind527/govind527/blob/output/github-contribution-grid-snake.svg" alt="snake">
  </p>
+
+<h3 align="center">Contribution Snake</h3>
+<p align="center">
+  <img src="https://github.com/govind527/govind527/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
  
  ---
  ## Here is a random joke that'll make you laugh!
