@@ -12,7 +12,7 @@ I am Govind Kumar, completed  Master's in Mathematics and scientific Computing f
 
 👯I’m looking to collaborate on Open-Source Projects
 
-🌱 I’m currently learning Data Structure and Algorithms, Data Science/Machine Learning, Cloud Native Technologies...
+🌱 I’m currently experimenting with Machine Learning, Deep learning, LLMs, Cloud Native Technologies...
 
 🤔 **I’m Open to Work on Domain like Software Development, DevOps, and Data Science/ML**
 
