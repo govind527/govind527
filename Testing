@@ -1,0 +1,69 @@
+This transcript and summary are based on the provided audio source detailing a technical discussion regarding the development of a predictive modeling system for cash flow and collection forecasting.
+
+### **Detailed English Transcript**
+
+**Speaker 1:** We will use the "collection" data for training, okay? And we will use the "unbilled" data for testing [1]. So, the AR (Accounts Receivable) report provided by the other team member won't be used anywhere? [1]. For now, we won't use it [1]. Actually, my thinking is that we should use the transaction-wise AR report from March to perform inference and determine how to calculate various elements [1]. There are three main categories: unbilled, billed, and collected [1].
+
+**Speaker 1:** We will use the "collected" data to predict the dates for the "billed" items [2]. Additionally, there will be a prediction for when "unbilled" items transition to "billed" [2]. For that, I’m deciding on a "provisional amount" with a variance of plus or minus 5% [2]. This will help us determine inside the system when the billing date for a specific combination of clients will occur [2].
+
+**Speaker 1:** Using the model trained on collection dates, we will determine what the collection date will be [3]. Let me share my screen—can you see it? [3].
+
+**Speaker 2:** Not yet [3].
+
+**Speaker 1:** We will create a model to predict when an unbilled row will move to the "billed" status [3]. This will help us identify the invoice [3].
+
+**Speaker 2:** Your screen isn't visible; it’s just white [3]. Now it’s coming through. Yes [3].
+
+**Speaker 1:** Okay, so predicting when unbilled becomes billed is one prediction [3]. Then there will be another model for when a "billed" item moves to "collection" [4]. We need to predict for both items that are already billed and those that are currently unbilled [4]. Using the target invoice sheet and models trained on collection data, we will predict when the collection will happen [4].
+
+**Speaker 1:** We look at when an invoice was raised, when it was collected, the amount, the client, etc. [5].
+
+**Speaker 2:** So currently, we only have the collection data? [5].
+
+**Speaker 1:** Correct, we only have collection data [5].
+
+**Speaker 2:** My thinking was that if we have upcoming invoices with an outstanding amount greater or less than zero, why not just predict for those? [5, 6]. I could extract that from the Power BI AR dashboard [6]. But the way you explained it is actually the correct way because we also need to account for unbilled items [6]. However, for those first two steps (unbilled to billed), we don't have data yet [6].
+
+**Speaker 1:** Historical data for those steps might be extractable from the Power BI system; we have to check [7]. For now, I am focusing on "collection" and "billed" [7]. This prediction needs to happen at the level of the Entity or Operating Unit, combined with the transactional currency [7].
+
+**Speaker 2:** Okay, then I will remove the dashboard data from my code [7].
+
+**Speaker 1:** Yes [7]. Also, regarding the collection file, use the latest "V2" version from the Cash Flow Collection Forecasting directory [8]. You will use that for the second model—the one trained on collection to predict for billed and unbilled items [8]. For now, ignore the "unbilled" part because we need a target invoice date for that, which comes from the first model [8, 9]. Try to use this model on the "billed" data to find out when the collection will occur [9].
+
+**Speaker 2:** So we have historical billed dates? [9].
+
+**Speaker 1:** We are using the "collection" data to train [9]. You see: "This invoice was raised on this date (Invoice Date), it had this due date, and this invoice amount" [9]. Then, "This amount was paid on this date" [10]. From this, you calculate the "Days Taken for Payment" (Receipt Date minus Invoice Date) [10]. That is the specific value we need to predict [10].
+
+**Speaker 2:** We predict the days? And should we also predict the amount they will pay? [10].
+
+**Speaker 1:** Don't predict the amount [10]. Predict how many days it will take them to pay the current outstanding amount [10].
+
+**Speaker 2:** Got it. Will we use different models for different cases? [10].
+
+**Speaker 1:** Yes, there won't be just one single model [11]. For example, the overall average payment days I found was 37.02 [11]. Does that make sense? [11].
+
+**Speaker 2:** Yes [11]. How do we use the "provisions"? [11].
+
+**Speaker 1:** Provisions will apply to the "unbilled" section [11]. For now, focus on the collection data [11]. I need to do more research on the dates for provisions [11].
+
+**Speaker 2:** Okay, I will use the collection data to try and predict the average payment days [11]. For inference, I’ll use the March data for the billed items [12]. Have you created a CSV for that billed test data? [12].
+
+**Speaker 1:** I haven't prepared the test data yet; I need to format it properly [12].
+
+**Speaker 2:** No problem, I'll look at the sheet and create a CSV myself to try the prediction [12]. Thanks for the clarification [12].
+
+---
+
+### **Overall Detailed Summary**
+
+The discussion outlines a strategic framework for building a **multi-stage predictive model** to forecast cash flow and debt collections [1, 4]. The project is structured around three primary data states: **Unbilled, Billed, and Collected** [1].
+
+**Key Modeling Components:**
+*   **Model 1 (Unbilled to Billed):** This model will predict when an unbilled transaction will officially become an invoice (billed) [3]. This stage involves using a "provisional amount" with a 5% margin to estimate future billing dates [2].
+*   **Model 2 (Billed to Collected):** This is the current priority [7]. It uses historical "collection" data for training to predict the "Days Taken for Payment"—the duration between the Invoice Date and the Receipt Date [10].
+
+**Data and Methodology:**
+*   **Training Strategy:** The team is moving away from static AR reports in favor of using historical collection data to train models [1, 8]. The training will focus on identifying patterns in how long specific clients take to pay based on their history [2, 9].
+*   **Granularity:** Predictions are not global; they must be performed at the **Entity or Operating Unit level** and account for **transactional currency** combinations [7, 9].
+*   **Prediction Target:** The primary goal is to predict the **timing of payment** (number of days) rather than the amount, as the outstanding amount is already known [10].
+*   **Next Steps:** Speaker 2 will proceed by using the "V2" collection dataset to build the payment-day prediction model, while Speaker 1 conducts further research on how to integrate "provisions" into the unbilled forecasting stage [8, 11, 12].
