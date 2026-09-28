@@ -62,55 +62,6 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-## 🎯 Quick Snapshot
-
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <h4>🔭 Building</h4>
-      <ul>
-        <li>Multi-agent workflows (CrewAI, LangGraph)</li>
-        <li>Production RAG with vector DBs</li>
-        <li>LLM-powered automation</li>
-      </ul>
-    </td>
-    <td width="25%" valign="top">
-      <h4>🌱 Exploring</h4>
-      <ul>
-        <li>Machine Learning &amp; Deep Learning</li>
-        <li>LLMs &amp; Agentic AI</li>
-        <li>Cloud Native technologies</li>
-      </ul>
-    </td>
-    <td width="25%" valign="top">
-      <h4>💬 Ask me about</h4>
-      <ul>
-        <li>Forecasting &amp; A/B testing</li>
-        <li>RAG &amp; vector databases</li>
-        <li>Shipping ML to production</li>
-      </ul>
-    </td>
-    <td width="25%" valign="top">
-      <h4>🏸 Off-screen</h4>
-      <ul>
-        <li>Badminton</li>
-        <li>Exploring new places</li>
-        <li>Open-source collaboration</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧭 What I Do
-
-| 📈 Forecasting & Experimentation | 🤖 GenAI & Agents | ⚙️ MLOps & Production |
-|---|---|---|
-| Revenue forecasting with confidence intervals | RAG pipelines with vector databases | FastAPI inference services on Azure |
-| Offline simulations and controlled A/B tests | Multi-agent workflows (CrewAI, LangGraph) | Databricks pipelines and retraining |
-| Regression, classification, statistical modelling | LLM fine-tuning and prompt engineering | MLflow tracking, Docker, monitoring |
-
 ### 🔄 How I ship ML systems
 
 ```mermaid
